@@ -1,0 +1,24 @@
+Insights
+
+1. Total number of vehicle produced from 2014 to January of 2024 is 171004.
+
+2. Average MSRP (Manufactures Suggested Retail Price) is $51915. 
+(vehicles whose price is not decided by the manufactures yet are not considered here)
+3. Average electric range is 125.9km. 
+(vehicles whose range is not tested are not considered here)
+
+4. The state of Washington is the EV hotspot as more than 95% of the vehicles are in Washington.
+
+5. The BEV (Battery Electric Vehicle) got more popularity than PHEV (Plug-in Hybrid Electric Vehicle) over the years. PHEV has the growth curve almost flat but BEV got an exponential growth curve and reached its peak in 2023 with a total of almost 51k vehicle production.
+(As the data for 2024 is not complete, so we are seeing a dip in 2024)
+
+BEV contributes to approx. 79% of total EVs produced.
+
+6. Tesla is the top EV maker as it contributes almost half of total EVs (approx. 49%). Other top EV makers are Chevrolet, Nissan, Ford, BMW, Kia and together they contribute to almost 30% of total EV production.
+
+7. Tesla's Model X and Model Y are the top selling vehicles and  have approx. 21% and 18% market share respectively. Nissan Leaf, Tesla Model X and Chevrolet Bolt EV come next and contribute to approx. 6%, 4% and 4% of total EVs produced.
+
+8. From the total EVs produced CAFV (Clean Alternative Fuel Vehicle) eligibility for almost 54 % of vehicles are unknown as the range of those vehicles are not tested yet.
+
+Approx. 35% of total EVs are already CAFV eligible and the rest (approx. 11%) vehicles are not CAFV eligible as those vehicles got lesser range than CAFV standard.
+
