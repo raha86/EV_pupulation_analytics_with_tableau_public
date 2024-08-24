@@ -1,4 +1,4 @@
-# EV_pupulation_analytics_with_tableau_public
+# EV_population_analytics_with_tableau_public
 
 ![EV Population Data Analysis](https://github.com/raha86/EV_pupulation_analytics_with_tableau_public/assets/99750570/67896047-0077-4cef-b7c5-b3ff6574d91b)
 
